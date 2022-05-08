@@ -7,6 +7,8 @@ Just to be clear, AWS has already created a default VPC for you to use so that y
 
 This will help you how to create a fully functional custom VPC from scratch with a pair of public and private subnets using AWS CloudFormation.
 
+**For More Details** : https://medium.com/@kanani-nirav/create-a-vpc-with-private-and-public-subnets-using-cloudformation-939114a38f22
+
 We are creating following resources :
 
 1. VPC
@@ -15,4 +17,4 @@ We are creating following resources :
 4. Route table for Subnets
 5. NAT Gateway for private Subnet
 
-For More Details : https://medium.com/@kanani-nirav/create-a-vpc-with-private-and-public-subnets-using-cloudformation-939114a38f22
+<img src="https://github.com/kananinirav/VPC-with-Subnets-CloudFormation/blob/master/vpc.png" />
